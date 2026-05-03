@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+chromadb
+pytest
+pytest-asyncio
+pyyaml
+pydantic
+pydantic-settings
+openai
+litellm
+tenacity
+python-dotenv
